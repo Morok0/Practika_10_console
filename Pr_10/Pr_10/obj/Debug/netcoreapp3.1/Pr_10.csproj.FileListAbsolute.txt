@@ -1,0 +1,14 @@
+D:\Studia\Pr_10\Pr_10\bin\Debug\netcoreapp3.1\Pr_10.exe
+D:\Studia\Pr_10\Pr_10\bin\Debug\netcoreapp3.1\Pr_10.deps.json
+D:\Studia\Pr_10\Pr_10\bin\Debug\netcoreapp3.1\Pr_10.runtimeconfig.json
+D:\Studia\Pr_10\Pr_10\bin\Debug\netcoreapp3.1\Pr_10.runtimeconfig.dev.json
+D:\Studia\Pr_10\Pr_10\bin\Debug\netcoreapp3.1\Pr_10.dll
+D:\Studia\Pr_10\Pr_10\bin\Debug\netcoreapp3.1\Pr_10.pdb
+D:\Studia\Pr_10\Pr_10\obj\Debug\netcoreapp3.1\Pr_10.csproj.AssemblyReference.cache
+D:\Studia\Pr_10\Pr_10\obj\Debug\netcoreapp3.1\Pr_10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studia\Pr_10\Pr_10\obj\Debug\netcoreapp3.1\Pr_10.AssemblyInfoInputs.cache
+D:\Studia\Pr_10\Pr_10\obj\Debug\netcoreapp3.1\Pr_10.AssemblyInfo.cs
+D:\Studia\Pr_10\Pr_10\obj\Debug\netcoreapp3.1\Pr_10.csproj.CoreCompileInputs.cache
+D:\Studia\Pr_10\Pr_10\obj\Debug\netcoreapp3.1\Pr_10.dll
+D:\Studia\Pr_10\Pr_10\obj\Debug\netcoreapp3.1\Pr_10.pdb
+D:\Studia\Pr_10\Pr_10\obj\Debug\netcoreapp3.1\Pr_10.genruntimeconfig.cache
